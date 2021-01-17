@@ -1,1 +1,0 @@
-# cinthia10gan

@@ -1,0 +1,18 @@
+=================================================
+	CREDITS
+=================================================
+
+- Bootstrap - http://getbootstrap.com/docs/4.0/getting-started/introduction
+
+- Owl Carousel - https://owlcarousel2.github.io/OwlCarousel2/
+
+- jQuery Waypoints - http://imakewebthings.com/waypoints/
+
+- animate.css - https://daneden.github.io/animate.css/
+
+- jQuery Parallax - https://github.com/pixelcog/parallax.js/
+
+- jQuery Counter Up - https://github.com/bfintal/Counter-Up
+
+- Nette Framework - http://nette.org/en/
+
